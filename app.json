@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Strength by Bram",
+    "slug": "strength-by-bram",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0F1115",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.strengthbybram.app"
+    },
+    "android": {
+      "package": "com.strengthbybram.app"
+    }
+  }
+}
